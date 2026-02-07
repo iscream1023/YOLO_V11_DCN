@@ -2,3 +2,6 @@
 *.pt
 *.pth
 *.onnx
+*runs/
+*.pyc
+__pycache__/
