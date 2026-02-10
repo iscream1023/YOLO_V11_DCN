@@ -3,7 +3,7 @@ This project utilizes the **FASDD** dataset from the following research paper:
 - **Paper Title**: An open flame and smoke detection dataset for deep learning in remote sensing based fire detection
 - **Published in**: *Geo-spatial Information Science*, 28(2), 511-526. (2025)
 - **Authors**: Mengnan Wang, Peng Yue, Liangcun Jiang, Danfeng Yu, Tianya Tuo & Jing Li
-- **LINK**: https://www.scidb.cn/en/detail?dataSetId=ce9c9400b44148e1b0a749f5c3eb0bda
+- **LINK**: [https://www.scidb.cn/en/detail?dataSetId=ce9c9400b44148e1b0a749f5c3eb0bda](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2347922)
 
 ### Citation
 ```bibtex
