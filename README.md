@@ -1,22 +1,20 @@
 ## Dataset
-This project utilizes the dataset from the following research paper:
+This project utilizes the **FASDD** dataset from the following research paper: 
 - **Paper Title**: An open flame and smoke detection dataset for deep learning in remote sensing based fire detection
 - **Published in**: *Geo-spatial Information Science*, 28(2), 511-526. (2025)
 - **Authors**: Mengnan Wang, Peng Yue, Liangcun Jiang, Danfeng Yu, Tianya Tuo & Jing Li
-- **DOI**: [https://doi.org/10.1080/17538947.2023.2263595](https://doi.org/10.1080/17538947.2023.2263595) (또는 해당 저널 링크)
+- **LINK**: https://www.scidb.cn/en/detail?dataSetId=ce9c9400b44148e1b0a749f5c3eb0bda
 
-### Citation (BibTeX)
-If you use this work or dataset, please cite it as follows:
-
+### Citation
 ```bibtex
-@article{Wang2025OpenFlame,
-  author = {Wang, Mengnan and Yue, Peng and Jiang, Liangcun and Yu, Danfeng and Tuo, Tianya and Li, Jing},
-  title = {An open flame and smoke detection dataset for deep learning in remote sensing based fire detection},
-  journal = {Geo-spatial Information Science},
-  volume = {28},
-  number = {2},
-  pages = {511-526},
-  year = {2025},
-  publisher = {Taylor & Francis},
-  doi = {10.1080/17538947.2023.2263595}
+@misc{ ce9c9400b44148e1b0a749f5c3eb0bda,
+  author    = {Ming Wang and Peng Yue and Liangcun Jiang and Dayu Yu and Tianyu Tuo},
+  title     = {{An open flame and smoke detection dataset for deep learning in remote sensing based fire detection}},
+  year      = 2025,
+  month     = sep,
+  publisher = {Science Data Bank},
+  version   = {V9},
+  doi       = {10.57760/sciencedb.j00104.00103},
+  url       = {https://doi.org/10.57760/sciencedb.j00104.00103}
 }
+```
