@@ -18,3 +18,21 @@ This project utilizes the **FASDD** dataset from the following research paper:
   url       = {https://doi.org/10.57760/sciencedb.j00104.00103}
 }
 ```
+
+### Additional Dataset (Kaggle)
+This project also incorporates the **D-Fire** dataset to enhance the model's robustness.
+- **Dataset Title**: D-Fire
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/shubhamkarande13/d-fire)
+- **Creator**: [Shubham Karande](https://www.kaggle.com/shubhamkarande13)
+
+### Citation (Kaggle)
+If you wish to cite this Kaggle dataset, you can use the following format:
+
+```bibtex
+@misc{shubhamkarande13_dfire,
+  title={D-Fire},
+  url={[https://www.kaggle.com/datasets/shubhamkarande13/d-fire](https://www.kaggle.com/datasets/shubhamkarande13/d-fire)},
+  journal={Kaggle},
+  author={Shubham Karande},
+  year={2022}
+}
